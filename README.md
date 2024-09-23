@@ -1,0 +1,1 @@
+# silly stupid funny webscraper that makes semi-obvious phishing websites with no actual infrastructure to collect data and also all of replit's useless config stuff they include when you download as a zip file
